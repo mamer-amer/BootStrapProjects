@@ -205,6 +205,12 @@ samp {
     font-size: 1em;
 }
 
+iframe {
+    width: 100%;
+    margin-bottom: 20%;
+    height: 92%;
+}
+
 pre {
     margin-top: 0;
     margin-bottom: 1rem;
