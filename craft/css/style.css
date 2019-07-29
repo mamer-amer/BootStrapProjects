@@ -11617,3 +11617,27 @@ figure figcaption {
     -ms-transform: translateX(-50%);
     transform: translateX(-50%);
 }
+
+
+/* .makeItlarger:before {
+    content: "";
+    background: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease;
+    opacity: 0;
+    visibility: hidden;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+} */
+
+
+/* 
+.makeItlarger:hover .work-text {
+    margin-top: 0px;
+    opacity: 1;
+    visibility: visible;
+} */
